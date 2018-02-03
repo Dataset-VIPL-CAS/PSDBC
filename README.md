@@ -9,6 +9,6 @@ Download CUHK-SYSU\_Person\_Search\_Dataset with complementary annoation, availa
 
 ## Reference
 
-Please reference the following paper for more details:
-G. Chen, X. Cai, H. Han, S. Shan and X. Chen. HeadNet: Pedestrian Head Detection Utilizing Body in Context, FG2018
+Please reference the following paper for more details:  
+G. Chen, X. Cai, H. Han, S. Shan and X. Chen. HeadNet: Pedestrian Head Detection Utilizing Body in Context, FG2018  
 T. Xiao, S. Li, B. Wang, X. Wang and L. Lin. End-to-End Deep Learning for Person Search, arXiv <a href="http://www.ee.cuhk.edu.hk/~xgwang/PS/paper.pdf">pdf</a>

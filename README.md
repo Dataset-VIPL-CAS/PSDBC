@@ -1,6 +1,6 @@
 # CUHK-SYSU\_Person\_Search\_Dataset\_Complement
 
-![Dataset](https://raw.githubusercontent.com/Dataset-VIPL-CAS/CUHK-SYSU_Person_Search_Dataset_Complement/master/fig.jpg)
+![Dataset](https://raw.githubusercontent.com/Dataset-VIPL-CAS/PSDBC/master/fig.jpg)
 
 
 ## Download link
